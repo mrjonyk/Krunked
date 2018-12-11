@@ -1,0 +1,1 @@
+var title = document.getElementById("gameName"); title.innerHTML = "Krunked";
