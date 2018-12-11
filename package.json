@@ -1,12 +1,10 @@
 {
-  "name": "krunkerelectron",
-  "version": "0.0.1",
+  "name": "krunked",
+  "version": "0.0.2",
   "description": "Electron Client of the online game Krunker",
   "main": "main.js",
   "dependencies": {
-    "doasync": "^2.0.1",
-    "electron": "^3.0.11",
-    "electron-titlebar": "0.0.3"
+    "electron": "^3.0.11"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PyraOfficial/krunkerElectron.git"
+    "url": "git+https://github.com/PyraOfficial/Krunked.git"
   },
   "keywords": [
     "krunker"
@@ -23,7 +21,7 @@
   "author": "@Pyyra#9999",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/PyraOfficial/krunkerElectron/issues"
+    "url": "https://github.com/PyraOfficial/Krunked/issues"
   },
-  "homepage": "https://github.com/PyraOfficial/krunkerElectron#readme"
+  "homepage": "https://github.com/PyraOfficial/Krunked#readme"
 }
