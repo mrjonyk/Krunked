@@ -5,10 +5,9 @@ var contents;
 let win
 const fs = require('fs');
 
-
 function createWindow () {
 
-  win = new BrowserWindow({ width: 800, height: 600, frame: false})
+  win = new BrowserWindow({ width: 800, height: 600, frame: true})
   win.loadURL('http://krunker.io')
   win.on('closed', () => {
 
